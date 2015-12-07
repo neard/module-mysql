@@ -1,32 +1,31 @@
-This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving Apache binary bundles.
+This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving MySQL binary bundles.
 
 ## Download
 
-* [2.2.22-r1](https://github.com/crazy-max/neard-bin-apache/releases/download/r1/neard-apache-2.2.22-r1.zip) (default bundle on Neard)
-* [2.2.27-r1](https://github.com/crazy-max/neard-bin-apache/releases/download/r1/neard-apache-2.2.27-r1.zip)
-* [2.2.29-r1](https://github.com/crazy-max/neard-bin-apache/releases/download/r1/neard-apache-2.2.29-r1.zip)
-* [2.2.31-r1](https://github.com/crazy-max/neard-bin-apache/releases/download/r1/neard-apache-2.2.31-r1.zip)
-* [2.4.4-r1](https://github.com/crazy-max/neard-bin-apache/releases/download/r1/neard-apache-2.4.4-r1.zip)
-* [2.4.12-r1](https://github.com/crazy-max/neard-bin-apache/releases/download/r1/neard-apache-2.4.12-r1.zip)
-* [2.4.17-r1](https://github.com/crazy-max/neard-bin-apache/releases/download/r1/neard-apache-2.4.17-r1.zip)
+* [5.5.24-r1](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.24-r1.zip) (default bundle on Neard)
+* [5.5.44-r1](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.44-r1.zip)
+* [5.5.46-r1](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.46-r1.zip)
+* [5.6.12-r1](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.12-r1.zip)
+* [5.6.25-r1](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.25-r1.zip)
+* [5.6.27-r1](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.27-r1.zip)
 
 ## Installation
 
 * Download and install [Neard](https://github.com/crazy-max/neard).
-* Download one of the available Apache bundles.
-* Extract archive in `neard\bin\apache\`.
+* Download one of the available MySQL bundles.
+* Extract archive in `neard\bin\mysql\`.
 
 Directory structure :
 ```
 [-] neard
  | [-] bin
- |  | [-] apache
- |  |  | [-] apache2.2.22
+ |  | [-] mysql
+ |  |  | [-] mysql5.5.24
  |  |     | neard.conf
- |  |  | [-] apache2.4.4
+ |  |  | [-] mysql5.6.27
  |  |     | neard.conf
  ```
- 
+
 ## Issues
 
 Issues must be reported on [Neard repository](https://github.com/crazy-max/neard/issues).<br />
