@@ -30,17 +30,17 @@ This a sub-repo of [Neard project](https://github.com/crazy-max/neard) involving
 
 |                  | MySQL release date | Neard release | Download |
 | ---------------- |:------------------:|:-------------:|:--------:|
-| **MySQL 5.5.24** ![](https://raw.github.com/crazy-max/neard-bin-mysql/master/img/star-20151214.png) | 2013/11/21 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.5.24-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.24-r1.zip) |
-| **MySQL 5.5.44** | 2013/11/21 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.5.44-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.44-r1.zip) |
-| **MySQL 5.5.46** | 2013/11/21 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.5.46-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.46-r1.zip) |
+| **MySQL 5.5.24** ![](https://raw.github.com/crazy-max/neard-bin-mysql/master/img/star-20151214.png) | 2012/05/07 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.5.24-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.24-r1.zip) |
+| **MySQL 5.5.44** | 2015/05/29 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.5.44-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.44-r1.zip) |
+| **MySQL 5.5.46** | 2015/09/30 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.5.46-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.5.46-r1.zip) |
 
 ### 5.6
 
 |                  | MySQL release date | Neard release | Download |
 | ---------------- |:------------------:|:-------------:|:--------:|
-| **MySQL 5.6.12** | 2013/11/21 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.6.12-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.12-r1.zip) |
-| **MySQL 5.6.25** | 2013/11/21 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.6.25-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.25-r1.zip) |
-| **MySQL 5.6.27** | 2013/11/21 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.6.27-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.27-r1.zip) |
+| **MySQL 5.6.12** | 2013/06/03 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.6.12-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.12-r1.zip) |
+| **MySQL 5.6.25** | 2015/05/29 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.6.25-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.25-r1.zip) |
+| **MySQL 5.6.27** | 2015/09/30 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.6.27-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.27-r1.zip) |
 
 ## Issues
 
