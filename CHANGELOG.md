@@ -1,5 +1,11 @@
 # Changelog
 
+## r3 (2016/04/19)
+
+This release works since **[Neard 1.0.18](https://github.com/crazy-max/neard/releases/tag/v1.0.18)**
+
+* New bundle : 5.7.12
+
 ## r2 (2016/04/17)
 
 This release works since **[Neard 1.0.13](https://github.com/crazy-max/neard/releases/tag/v1.0.13)**
