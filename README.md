@@ -45,6 +45,12 @@ Directory structure example :
 | **MySQL 5.6.27** | 2015/09/30 | [r1](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r1) | [neard-mysql-5.6.27-r1.zip](https://github.com/crazy-max/neard-bin-mysql/releases/download/r1/neard-mysql-5.6.27-r1.zip) |
 | **MySQL 5.6.30** | 2016/04/11 | [r2](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r2) | [neard-mysql-5.6.30-r2.7z](https://github.com/crazy-max/neard-bin-mysql/releases/download/r2/neard-mysql-5.6.30-r2.7z) |
 
+### 5.7
+
+|                  | MySQL release date | Neard release | Download |
+| ---------------- |:------------------:|:-------------:|:--------:|
+| **MySQL 5.7.12** | 2016/04/11 | [r3](https://github.com/crazy-max/neard-bin-mysql/releases/tag/r3) | [neard-mysql-5.7.12-r3.7z](https://github.com/crazy-max/neard-bin-mysql/releases/download/r3/neard-mysql-5.7.12-r3.7z) |
+
 ## Sources
 
 * https://dev.mysql.com/
