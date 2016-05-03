@@ -1,21 +1,21 @@
 # Changelog
 
-## r3 (2016/04/19)
+### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binMySQL#latest) before downloading.
 
-This release works since **[Neard 1.0.18](https://github.com/crazy-max/neard/releases/tag/v1.0.18)**
+## r4 (2016/05/03)
+
+* Add params in `neard.conf` file for Neard 1.0.19 to change root password
+
+## r3 (2016/04/19)
 
 * New bundle : 5.7.12
 
 ## r2 (2016/04/17)
 
-This release works since **[Neard 1.0.13](https://github.com/crazy-max/neard/releases/tag/v1.0.13)**
-
 * New bundles : 5.5.49, 5.6.30
 * Add Ant build
 
 ## r1 (2015/12/06)
-
-This release works since **[Neard 1.0.13](https://github.com/crazy-max/neard/releases/tag/v1.0.13)**
 
 * Init repo with MySQL bundles from [Neard](https://github.com/crazy-max/neard)
 * New bundles : 5.5.46, 5.6.27
