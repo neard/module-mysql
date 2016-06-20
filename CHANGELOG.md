@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binMySQL#latest) before downloading.
 
+## r5 (2016/06/20)
+
+* New bundles : 5.5.50, 5.6.31, 5.7.13
+
 ## r4 (2016/05/03)
 
 * Add params in `neard.conf` file for Neard 1.0.19 to change root password ([Issue #134](https://github.com/crazy-max/neard/issues/134))
