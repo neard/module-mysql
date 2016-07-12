@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binMySQL#latest) before downloading.
 
+## r6 (2016/07/12)
+
+* Config bug in 5.5.50, 5.6.31, 5.7.13
+
 ## r5 (2016/06/20)
 
 * New bundles : 5.5.50, 5.6.31, 5.7.13
