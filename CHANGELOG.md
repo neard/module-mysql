@@ -1,6 +1,6 @@
 # Changelog
 
-## r9 (2017/04/12)
+## r9 (2017/04/13)
 
 * New bundles : 5.5.55, 5.6.36, 5.7.18 (Issue crazy-max/neard#245)
 * Include all locales (Issue crazy-max/neard#241)
