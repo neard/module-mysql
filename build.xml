@@ -32,6 +32,7 @@
         bin/debug/**,
         data/ib_logfile*,
         data/ibdata*,
+        data/test/**,
         docs/**,
         include/**,
         lib/mecab/**,
