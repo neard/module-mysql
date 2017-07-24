@@ -1,7 +1,7 @@
 [![GitHub release](https://img.shields.io/github/release/crazy-max/neard-bin-mysql.svg?style=flat-square)](https://github.com/crazy-max/neard-bin-mysql/releases/latest)
 ![Total downloads](https://img.shields.io/github/downloads/crazy-max/neard-bin-mysql/total.svg?style=flat-square)
 
-This a module of [Neard project](https://github.com/crazy-max/neard) involving MySQL binary bundles.
+This is a module of [Neard project](https://github.com/crazy-max/neard) involving MySQL.
 
 ## Documentation and downloads
 
