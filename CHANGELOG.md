@@ -1,21 +1,25 @@
 # Changelog
 
+## r11 (2018/07/19)
+
+* New releases : 5.5.60, 5.6.40, 5.7.22, 8.0.11 (Issue neard/neard#381)
+
 ## r10 (2017/07/24)
 
-* New bundles : 5.5.57, 5.6.37, 5.7.19 (Issue neard/neard#296)
+* New releases : 5.5.57, 5.6.37, 5.7.19 (Issue neard/neard#296)
 
 ## r9 (2017/04/13)
 
-* New bundles : 5.5.55, 5.6.36, 5.7.18 (Issue neard/neard#245)
+* New releases : 5.5.55, 5.6.36, 5.7.18 (Issue neard/neard#245)
 * Include all locales (Issue neard/neard#241)
 
 ## r8 (2016/11/29)
 
-* New bundles : 5.5.53, 5.6.34, 5.7.16 (Issue neard/neard#172)
+* New releases : 5.5.53, 5.6.34, 5.7.16 (Issue neard/neard#172)
 
 ## r7 (2016/10/11)
 
-* New bundles : 5.5.52, 5.6.33, 5.7.15 (Issue neard/neard#119)
+* New releases : 5.5.52, 5.6.33, 5.7.15 (Issue neard/neard#119)
 
 ## r6 (2016/07/12)
 
@@ -23,7 +27,7 @@
 
 ## r5 (2016/06/20)
 
-* New bundles : 5.5.50, 5.6.31, 5.7.13 (Issue neard/neard#119)
+* New releases : 5.5.50, 5.6.31, 5.7.13 (Issue neard/neard#119)
 
 ## r4 (2016/05/03)
 
@@ -35,12 +39,12 @@
 
 ## r2 (2016/04/17)
 
-* New bundles : 5.5.49, 5.6.30
+* New releases : 5.5.49, 5.6.30
 * Add Ant build
 
 ## r1 (2015/12/06)
 
-* Init repo with MySQL bundles from Neard
-* New bundles : 5.5.46, 5.6.27
+* Init repo with MySQL releases from Neard
+* New releases : 5.5.46, 5.6.27
 * Fix InnoDB data corrupted on 5.6 releases
 * Create template files (.nrd) for future Neard release
