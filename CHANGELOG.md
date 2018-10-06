@@ -1,5 +1,10 @@
 # Changelog
 
+## r12 (2018/10/06)
+
+* New releases : 5.5.61, 5.6.41, 5.7.23, 8.0.12 (Issue neard/neard#395)
+* Config bug in 8.0.11 (Issue neard/neard#384)
+
 ## r11 (2018/07/19)
 
 * New releases : 5.5.60, 5.6.40, 5.7.22, 8.0.11 (Issue neard/neard#381)
