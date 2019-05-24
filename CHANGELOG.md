@@ -1,5 +1,9 @@
 # Changelog
 
+## r14 (2019/05/24)
+
+* UTF8MB4 default charset since 8.0.16
+
 ## r13 (2019/05/23)
 
 * MySQL 5.5.62, 5.6.44, 5.7.26, 8.0.16 (Issue neard/neard#413)
