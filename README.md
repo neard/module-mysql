@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/neard/neard) involving My
 
 ## Documentation and downloads
 
-http://neard.io/modules/mysql
+https://neard.io/modules/mysql
 
 ## Issues
 
